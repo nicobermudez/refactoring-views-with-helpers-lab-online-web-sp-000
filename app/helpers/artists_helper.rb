@@ -1,6 +1,7 @@
 module ArtistsHelper
 
   def display_artist
-    if 
+    if artist 
+      render 'show'
   end
 end
