@@ -4,7 +4,7 @@ module ArtistsHelper
     if song.artist
       render 'show'
     else
-      
+
     end
   end
 end
